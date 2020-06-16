@@ -1,0 +1,7 @@
+MySQL:
+  
+  host: 'localhost'
+  username: 'user'
+  database: 'database'
+  password: 'Motdepasse123!'
+  port: 3306

@@ -1,0 +1,27 @@
+name: Moderation
+version: 1.0-Snapshot-Alpha-2020-COVID19
+author: Frivec
+main: fr.frivec.Moderation
+commands:
+  ban:
+    description: Ban command
+  mute:
+    description: Mute command
+  kick:
+    description: Kick command
+  unban:
+    description: Unban command
+  unmute:
+    description: Unmute command
+  history:
+    description: History command
+  freeze:
+    description: Freeze command
+  purge:
+    description: purge chat command
+  mod:
+    description: Broadcast for moderators
+  report:
+    description: Report command
+  slowchat:
+    description: Slow Chat command
